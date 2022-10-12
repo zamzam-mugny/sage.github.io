@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T23:05:29.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="dxzZne8LEdAuTCZhEmXM" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T23:25:30.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="aDLrTY6UzeMbwEI7zshH" version="20.4.0" type="github">
   <diagram id="NI2sbRIPGw0O3It5G5bQ" name="Page-1">
     <mxGraphModel dx="1209" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-27" value="menu 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322" y="380" width="90" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-98" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-29" target="ieqs-oncpJ_l9lBFtXVg-97">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-29" value="menu 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322" y="577" width="90" height="80" as="geometry" />
@@ -180,19 +183,21 @@
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ieqs-oncpJ_l9lBFtXVg-81" target="ieqs-oncpJ_l9lBFtXVg-83" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ieqs-oncpJ_l9lBFtXVg-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ieqs-oncpJ_l9lBFtXVg-81" parent="1">
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="753.0000000000002" y="682" as="targetPoint" />
+            <mxPoint x="753.0000000000002" y="631.4999999999998" as="sourcePoint" />
+            <mxPoint x="753.0000000000002" y="667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-81" value="Saldo - Penarikan &amp;lt; 5000" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="678" y="551.5" width="150" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="ieqs-oncpJ_l9lBFtXVg-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="ieqs-oncpJ_l9lBFtXVg-83" target="ieqs-oncpJ_l9lBFtXVg-93" parent="1">
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="ieqs-oncpJ_l9lBFtXVg-83" target="ieqs-oncpJ_l9lBFtXVg-93" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="518.9696048632218" y="583.5714285714287" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="480" y="598.5" />
-              <mxPoint x="480" y="787" />
+              <mxPoint x="480" y="599" />
+              <mxPoint x="480" y="772" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -203,7 +208,7 @@
           <mxGeometry x="659" y="577" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-85" value="S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="729" y="646.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="729" y="631.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="ieqs-oncpJ_l9lBFtXVg-89" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -214,18 +219,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-91" value="Saldo = Saldo - penarikan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="693" y="682" width="120" height="60" as="geometry" />
+          <mxGeometry x="693" y="667" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-92" value="Tulis&lt;br&gt;SaldoAwal, Penarikan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="509" y="682" width="160" height="60" as="geometry" />
+          <mxGeometry x="509" y="667" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-93" value="Tulis&lt;br&gt;Sisa Saldo Anda \n,&lt;br&gt;Transaksi Anda Masih" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="509" y="757" width="310" height="60" as="geometry" />
+          <mxGeometry x="509" y="742" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-95" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="519" y="717" as="sourcePoint" />
-            <mxPoint x="479" y="716" as="targetPoint" />
+            <mxPoint x="519" y="702" as="sourcePoint" />
+            <mxPoint x="479" y="701" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -236,6 +241,100 @@
               <mxPoint x="469" y="617" />
               <mxPoint x="469" y="507" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-101" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-97" target="ieqs-oncpJ_l9lBFtXVg-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="712" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-97" value="Tulis&lt;br&gt;Transaksi TIdak Ada, \n&lt;br&gt;Sisa Transaksi Anda masih.." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="682" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-105" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-99" target="ieqs-oncpJ_l9lBFtXVg-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-99" value="Tulis &lt;br&gt;Transaksi Lagi ?&lt;br&gt;Y or N" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="828" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-106" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-102" target="ieqs-oncpJ_l9lBFtXVg-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-102" value="Baca Pilihan&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="828" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-107" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-103" target="ieqs-oncpJ_l9lBFtXVg-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-120" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-103" target="ieqs-oncpJ_l9lBFtXVg-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-103" value="Pilihan&amp;nbsp; = Y" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="818" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-119" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-104" target="ieqs-oncpJ_l9lBFtXVg-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-121" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-104" value="Pilihan&amp;nbsp; = N" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="910" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-114" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-108" target="ieqs-oncpJ_l9lBFtXVg-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-108" value="Tulis&lt;br&gt;Sisa Transaksi Anda Masih .." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="828" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-123" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-109" target="ieqs-oncpJ_l9lBFtXVg-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="858" />
+              <mxPoint x="820" y="1070" />
+              <mxPoint x="20" y="1070" />
+              <mxPoint x="20" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-109" value="batasTransaksi --" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="828" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-115" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-110" target="ieqs-oncpJ_l9lBFtXVg-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-110" value="Tulis&lt;br&gt;Terimakasih Sudah Transaksi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="920" width="132" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-125" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-111" value="batasTransaksi = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-116" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-112" target="ieqs-oncpJ_l9lBFtXVg-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-112" value="Tulis&lt;br&gt;Pilihan Tidak Ada" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="997" width="131" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-113" value="batasTransaksi = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="649" y="997" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-128" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="1025" as="sourcePoint" />
+            <mxPoint x="820" y="1025" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
