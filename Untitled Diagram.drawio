@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T23:25:30.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="aDLrTY6UzeMbwEI7zshH" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T23:27:41.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="U8JBsj3lhHiEMfxy3Yy8" version="20.4.0" type="github">
   <diagram id="NI2sbRIPGw0O3It5G5bQ" name="Page-1">
     <mxGraphModel dx="1209" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
           <mxGeometry x="246" y="190" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-13" value="S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="483" width="30" height="30" as="geometry" />
+          <mxGeometry x="133" y="483" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-14" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="70" y="40" width="140" height="50" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry x="650" y="135" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-40" value="S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="186.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="720" y="195.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-41" target="ieqs-oncpJ_l9lBFtXVg-44">
           <mxGeometry relative="1" as="geometry" />
@@ -336,6 +336,21 @@
             <mxPoint x="770" y="1025" as="sourcePoint" />
             <mxPoint x="820" y="1025" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-129" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="649" y="236" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-130" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="451" y="832" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-131" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="454" y="926" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-132" value="S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="402" y="993" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-133" value="S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="406" y="890" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
