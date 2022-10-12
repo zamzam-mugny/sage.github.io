@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T22:26:30.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nch_4q--AOxcEflvwqXw" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T22:29:45.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="NVjdFZ2pX5BSMVijUkBa" version="20.4.0" type="github">
   <diagram id="NI2sbRIPGw0O3It5G5bQ" name="Page-1">
-    <mxGraphModel dx="846" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-3" value="delarasi nama, saldo, saldo awal, penambahan, penarikan, batasTransaksi, menu" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ieqs-oncpJ_l9lBFtXVg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-5" target="ieqs-oncpJ_l9lBFtXVg-7">
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-5" target="ieqs-oncpJ_l9lBFtXVg-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-5" value="masukan nama, saldo awal&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-7" value="Apakah BatasTransaksi &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="300" width="160" height="90" as="geometry" />
+          <mxGeometry x="55" y="397" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-9" value="saldoSekarang = Saldo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
@@ -37,13 +37,19 @@
           <mxGeometry x="250" y="190" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-13" value="S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="118" y="392" width="30" height="30" as="geometry" />
+          <mxGeometry x="128" y="469" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-14" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="70" y="40" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ieqs-oncpJ_l9lBFtXVg-15" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="70" y="430" width="140" height="50" as="geometry" />
+          <mxGeometry x="67" y="517" width="137" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ieqs-oncpJ_l9lBFtXVg-18" target="ieqs-oncpJ_l9lBFtXVg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieqs-oncpJ_l9lBFtXVg-18" value="batasTransaksi = 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
